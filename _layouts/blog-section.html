@@ -43,7 +43,7 @@
         <div class="sidebar-widget">
             <h3>Autores destacados</h3>
             {% assign posts_by_author = site.posts | where_exp: "p", "p.categories contains 'blog'" | group_by: "author" | sort: "size" | reverse %}
-            {% for grupo in posts_by_author limit: 2 %}
+            {% for grupo in posts_by_author limit: 5 %}
                 {% assign autor_info = site.data.autores[grupo.name] %}
                 <div class="autor-destacado">
                     <img src="{{ autor_info.image | default: '/Divulgacion/avatar-default.svg' }}" alt="Foto de {{ grupo.name }}" onerror="this.onerror=null;this.src='/Divulgacion/avatar-default.svg';">
@@ -58,7 +58,7 @@
         <div class="sidebar-widget">
             <h3>Entradas más visitadas</h3>
             {% assign posts_por_visitas = site.posts | where_exp: "p", "p.categories contains 'blog'" | sort: "views" | reverse %}
-            {% for post in posts_por_visitas limit: 5 %}
+            {% for post in posts_por_visitas limit: 10 %}
                 <a href="{{ post.url | prepend: site.baseurl }}" class="entrada-destacada">
                     <span class="num">{{ forloop.index }}</span>
                     <div>
