@@ -4,24 +4,19 @@ categories:
    - blog
    - I Concurso Relatos Divulgativos
 title:  "ICRD26: El Demonio de Maxwell - Capítulo 1"
-cover: "Divulgacion/ConcursoRelatos/portada.png"
+cover: "/Divulgacion/ConcursoRelatos/portada.png"
 date: 2026-07-14 11:00
 author: Eric Jiménez Zurera
 redirect-from:
 excerpt: "Este es un cuento para no dormir. Un relato de fantasmas. Una historia de un demonio, termodinámica, cuántica, electromagnetismo y uno de los más grandes físicos de la historia: James Clerk Maxwell. Para aquellos de mente más escéptica, conviene advertir que esta no es una historia al uso, sino que confunde la fantasía con la física más avanzada sin miramientos. Es tarea de aquel quien lee discernir qué certeza se esconde, si es que se atreve."
 ---
 
-<section class="blog">
-
-<p class="clearfix">
-   Este es un cuento para no dormir. Un relato de fantasmas. Una historia de un demonio, termodinámica, cuántica, electromagnetismo y uno de los más grandes físicos de la historia: James Clerk Maxwell. Para aquellos de mente más escéptica, conviene advertir que esta no es una historia al uso, sino que confunde la fantasía con la física más avanzada sin miramientos. Es tarea de aquel quien lee discernir qué certeza se esconde, si es que se atreve.
-</p>
 
 <hr>
 
 <br>
 
-<p class="titulo-capitulo">Cap. 1: La corriente del diablo</p>
+<h1>Cap. 1: La corriente del diablo</h1>
 
 <br>
 

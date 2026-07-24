@@ -14,13 +14,7 @@ una semana dándole más vueltas al coco que el tiovivo de la feria… Mira que 
 especial, pero yo creo que esto nos pasa a más de uno, incluso al Gato de Schrödinger…"
 ---
 
-<section class="blog">
-
-<p class="clearfix">
-Después de la exitosa primera cita romántica de nuestro protagonista, el Friki se ha llevado 
-una semana dándole más vueltas al coco que el tiovivo de la feria… Mira que el Friki es 
-especial, pero yo creo que esto nos pasa a más de uno, incluso al Gato de Schrödinger…
-</p>
+<hr>
 
 <br>
 

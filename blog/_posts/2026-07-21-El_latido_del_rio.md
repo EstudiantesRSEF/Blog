@@ -4,18 +4,13 @@ categories:
    - blog
    - I Concurso Relatos Divulgativos
 title:  "ICRD26: El latido del río"
-cover: "Divulgacion/ConcursoRelatos/portada.png"
+cover: "/Divulgacion/ConcursoRelatos/portada.png"
 date: 2026-07-21 11:00
 author: Nadine López Aira
 redirect-from:
 excerpt: "¿Cuántas veces has pensdao que lo que estudias no sirve para nada? Este relato es un claro ejemplo de que, si uno se atreve a dejarse llevar por la curiosidad, la física se abre paso en problemas reales con consecuencias en el día a día de la gente. Déjate embaucar por el latido del río y aprende sobre física de fluidos con esta historia verdaderamente inspiradora."
 ---
 
-<section class="blog">
-    ¿Cuántas veces has pensdao que lo que estudias no sirve para nada? Este relato es un claro ejemplo de que, si uno se atreve a dejarse llevar por la curiosidad, la física se abre paso en problemas reales con consecuencias en el día a día de la gente. Déjate embaucar por el latido del río y aprende sobre física de fluidos con esta historia verdaderamente inspiradora.
-<p class="clearfix">
-  
-</p>
 
 <hr>
 

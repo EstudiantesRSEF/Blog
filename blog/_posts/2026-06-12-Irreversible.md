@@ -4,18 +4,14 @@ categories:
    - blog
    - I Concurso Relatos Divulgativos
 title:  "ICRD26: Irreversible"
-cover: "Divulgacion/ConcursoRelatos/portada.png"
+cover: "/Divulgacion/ConcursoRelatos/portada.png"
 date: 2026-06-12 11:00
 author: David Iván Castillo Carro
 redirect-from:
 excerpt: "¿Se puede construir un traje capaz de disipar cualquier golpe? Al más puro estilo Iron-Man, este relato aborda esta pregunta como una cuestión de Estado. Con la tensión típica de un taquillazo de Marvel, David nos relata la historia de la construcción del escudo perfecto y, en el camino, nos llevaremos una buena dosis de física del estado sólido, termodinámica, y acústica. ¡Uno de los mejores relatos del concurso!"
 ---
 
-<section class="blog">
 
-<p class="clearfix">
-  ¿Se puede construir un traje capaz de disipar cualquier golpe? Al más puro estilo Iron-Man, este relato aborda esta pregunta como una cuestión de Estado. Con la tensión típica de un taquillazo de Marvel, David nos relata la historia de la construcción del escudo perfecto y, en el camino, nos llevaremos una buena dosis de física del estado sólido, termodinámica, y acústica. ¡Uno de los mejores relatos del concurso!
-</p>
 <hr>
 
 

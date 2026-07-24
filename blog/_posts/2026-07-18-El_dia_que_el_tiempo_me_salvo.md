@@ -4,18 +4,14 @@ categories:
    - blog
    - I Concurso Relatos Divulgativos
 title:  "ICRD26: El día que el tiempo me salvó"
-cover: "Divulgacion/ConcursoRelatos/portada.png"
+cover: "/Divulgacion/ConcursoRelatos/portada.png"
 date: 2026-07-18 11:00
 author: Judit Álvarez Fernández
 redirect-from:
 excerpt: "¿Qué es el tiempo? ¡Cuántas veces hemos deseado manipularlo a nuestro antojo y más cuando sentimos que se nos acaba! En este relato, la ansiedad típica de los plazos de entrega choca de frente con la relatividad, la entropía y los husos horarios, divagando sobre cómo sería posible desafiar al tiempo y ganar unos minutillos extra."
 ---
 
-<section class="blog">
-    ¿Qué es el tiempo? ¡Cuántas veces hemos deseado manipularlo a nuestro antojo y más cuando sentimos que se nos acaba! En este relato, la ansiedad típica de los plazos de entrega choca de frente con la relatividad, la entropía y los husos horarios, divagando sobre cómo sería posible desafiar al tiempo y ganar unos minutillos extra.
-<p class="clearfix">
-  
-</p>
+
 
 <hr>
 

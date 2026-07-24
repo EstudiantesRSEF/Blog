@@ -11,11 +11,7 @@ redirect-from:
 excerpt: "¿Qué es exactamente lo que investiga un físico matemático? ¿Cómo lo hace y qué herramientas utiliza? ¿Cómo se pueden estudiar los agujeros negros con física de fluidos? Hoy concluimos la entrevista a Anxo Fariña Biasi, investigador del IGFAE, tratando de comprender su trabajo actual de investigación y qué desafíos se divisan en el horizonte del futuro."
 ---
 
-<section class="blog">
-
-<p class="clearfix">
-  ¿Qué es exactamente lo que investiga un físico matemático? ¿Cómo lo hace y qué herramientas utiliza? ¿Cómo se pueden estudiar los agujeros negros con física de fluidos? Hoy concluimos la entrevista a Anxo Fariña Biasi, investigador del IGFAE, tratando de comprender su trabajo actual de investigación y qué desafíos se divisan en el horizonte del futuro. 
-</p>
+<hr>
 
 <br>
 <p>

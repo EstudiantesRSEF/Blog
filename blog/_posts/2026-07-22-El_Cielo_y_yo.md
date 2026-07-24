@@ -4,18 +4,13 @@ categories:
    - blog
    - I Concurso Relatos Divulgativos
 title:  "ICRD26: El Cielo y yo"
-cover: "Divulgacion/ConcursoRelatos/portada.png"
+cover: "/Divulgacion/ConcursoRelatos/portada.png"
 date: 2026-07-22 11:00
 author: Antonio Bernabe Marin Carballo
 redirect-from:
 excerpt: "A veces solo tenemos que mirar hacia arriba para llevarnos una clase magistral de física. En este relato, el cielo se convierte en el mejor amigo de un niño, acompañándolo en todas sus actividades en un día. Una historia de la nostalgia de la infancia y en la que, por el camino, aprenderemos la física detrás de los cambios en el cielo, las croquetas de jamón, y alguna otra cosa."
 ---
 
-<section class="blog">
-    A veces solo tenemos que mirar hacia arriba para llevarnos una clase magistral de física. En este relato, el cielo se convierte en el mejor amigo de un niño, acompañándolo en todas sus actividades en un día. Una historia de la nostalgia de la infancia y en la que, por el camino, aprenderemos la física detrás de los cambios en el cielo, las croquetas de jamón, y alguna otra cosa.
-<p class="clearfix">
-  
-</p>
 
 <hr>
 

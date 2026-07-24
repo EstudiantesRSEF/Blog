@@ -11,11 +11,6 @@ redirect-from:
 excerpt: "¿Hasta dónde te llevaría decir que sí a un plan de última hora? A Belén le llevo a nada más y nada menos que a Vilna, Lituania, al 14º EPS Young Minds Leadership Meeting. Dos días, decenas de estudiantes de física de toda Europa y un evento que superó todas las expectativas. Lee lo que nos cuenta Belén y a ver qué dices tú a la próxima vez que te propongan algo de un día para otro..."
 ---
 
-<section class="blog">
-
-<p class="clearfix">
-  ¿Hasta dónde te llevaría decir que sí a un plan de última hora? A Belén le llevo a nada más y nada menos que a Vilna, Lituania, al 14º EPS Young Minds Leadership Meeting. Dos días, decenas de estudiantes de física de toda Europa y un evento que superó todas las expectativas. Lee lo que nos cuenta Belén y a ver qué dices tú a la próxima vez que te propongan algo de un día para otro...
-</p>
 
 <hr>
 

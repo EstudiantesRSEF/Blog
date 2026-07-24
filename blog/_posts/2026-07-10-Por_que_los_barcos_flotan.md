@@ -4,18 +4,14 @@ categories:
    - blog
    - I Concurso Relatos Divulgativos
 title:  "ICRD26: ¿Por qué los barcos flotan?"
-cover: "Divulgacion/ConcursoRelatos/portada.png"
+cover: "/Divulgacion/ConcursoRelatos/portada.png"
 date: 2026-07-10 11:00
 author: Marta Torregrosa Montesinos
 redirect-from:
 excerpt: "¿Hasta dónde puede uno llegar si se deja llevar por la curiosidad? En este relato, Marta nos transmite lo enriquecedor del camino que debe seguirse para responder una pregunta satisfactoriamente, y las consecuencias que puede tener esto. A veces, lo mejor de responder una pregunta no es encontrar la respuesta, sino buscarla."
 ---
 
-<section class="blog">
 
-<p class="clearfix">
-  ¿Hasta dónde puede uno llegar si se deja llevar por la curiosidad? En este relato, Marta nos transmite lo enriquecedor del camino que debe seguirse para responder una pregunta satisfactoriamente, y las consecuencias que puede tener esto. A veces, lo mejor de responder una pregunta no es encontrar la respuesta, sino buscarla.
-</p>
 <hr>
 
 <br>

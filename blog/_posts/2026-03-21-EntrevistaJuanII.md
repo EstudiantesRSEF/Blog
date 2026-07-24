@@ -11,11 +11,7 @@ redirect-from:
 excerpt: "Agujeros negros saliendo disparados tras colisiones y su impronta en las ondas gravitacionales; ¿existen otros mounstruos gigantes que no son agujeros negros? ¿Los podríamos ver? Un experto en estas cuestiones nos lo cuenta."
 ---
 
-<section class="blog">
-
-<p class="clearfix">
-Agujeros negros saliendo disparados tras colisiones y su impronta en las ondas gravitacionales; ¿existen otros mounstruos gigantes que no son agujeros negros? ¿Los podríamos ver? Un experto en estas cuestiones nos lo cuenta.
-</p>
+<hr>
 
 <br>
 

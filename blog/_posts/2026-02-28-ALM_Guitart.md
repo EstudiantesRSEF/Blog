@@ -13,14 +13,7 @@ el internacionalista (RR.II.), aquí un servidor, fuimos invitados por la Americ
 calidad de embajadores estudiantiles."
 ---
 
-<section class="blog">
-
-<p class="clearfix">
-  A principios de febrero la vicepresidenta del Grupo de Estudiantes, <b>Sonsoles Riscos Martínez</b>, y 
-el internacionalista (RR.II.), aquí un servidor, fuimos invitados por la <b><i>American Physical Society 
-(APS)</i></b> a participar en el <b><i>Annual Leadership Meeting 2026 (ALM)</i></b>, en Washington D.C. 🦅🌐 en 
-calidad de embajadores estudiantiles. 
-</p>
+<hr>
 
 <br>
 <p><img class="img-left" src="/img/blog/2026-02-28-ALM_Guitart/meeting.jpeg">

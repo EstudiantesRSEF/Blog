@@ -2,7 +2,7 @@ gdee-por-el-mundo:
   titulo: "GdeE por el mundo"
   categoria: "gdee-por-el-mundo"
   descripcion: "Estudiantes del GdeE cuentan su experiencia investigando, estudiando o haciendo estancias fuera de casa."
-  imagen: "/img/blog/secciones/gdee_por_el_mundo.JPG"
+  imagen: "/img/blog/secciones/gdee_por_el_mundo.jpg"
 
 diario-de-un-friki:
   titulo: "Diario de un Friki"
@@ -32,7 +32,7 @@ eventos:
   titulo: "Eventos"
   categoria: "eventos"
   descripcion: "Congresos, jornadas y actividades del Grupo de Estudiantes y de la comunidad de física."
-  imagen: "/img/blog/secciones/eventos.JPG"
+  imagen: "/img/blog/secciones/eventos.jpg"
 
 divulgacion:
   titulo: "Divulgación"

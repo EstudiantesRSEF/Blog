@@ -14,14 +14,7 @@ escucharon, echaron la vista atrás y se acordaron de aquéllas, de todas, de la
 danzas."
 ---
 
-<section class="blog">
-
-<p class="clearfix">
-  Cuando el poeta aún podía cantar, cogió su guitarra y cantó: ‘<i>… cuando el mundo los pone 
-delante, cual ladrón y amante, el que se adelante se pierde primero…</i>’ Y todas las almas que lo 
-escucharon, echaron la vista atrás y se acordaron de aquéllas, de todas, de las más delicadas 
-danzas.
-</p>
+<hr>
 
 <br>
 

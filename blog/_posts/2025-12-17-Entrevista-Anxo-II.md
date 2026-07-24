@@ -14,15 +14,7 @@ carrera científica y el 'postdoc' en España a las preguntas más trascendental
 filosofía y la física."
 ---
 
-<section class="blog">
-
-<p class="clearfix">
-  ¿Se puede conocer realmente la realidad? ¿Existe Dios? Y, ¿qué pinta un artículo viral 
-sobre una gata en todo esto? Hoy continuamos nuestra entrevista con Anxo Fariña 
-Biasi, investigador en física matemática en el IGFAE. Pasaremos de los desafíos de la 
-carrera científica y el <i>postdoc</i> en España a las preguntas más trascendentales de la 
-filosofía y la física.  
-</p>
+<hr>
 
 <br>
 <p>

@@ -14,14 +14,7 @@ contará cómo fue su primera cita romántica en una de ellas. Léanle a él, po
 ahí dentro no me atrevo a contároslo yo…"
 ---
 
-<section class="blog">
-
-<p class="clearfix">
-  Hay pocas cosas más románticas que un paseo en noria entre dos enamorados, y lo que pasa 
-dentro de cada cabina se deja a merced de la imaginación del lector. Hoy nuestro Friki nos 
-contará cómo fue su primera cita romántica en una de ellas. Léanle a él, porque lo que pasó 
-ahí dentro no me atrevo a contároslo yo…
-</p>
+<hr>
 
 <br>
 

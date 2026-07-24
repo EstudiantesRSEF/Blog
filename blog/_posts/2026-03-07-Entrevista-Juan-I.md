@@ -11,11 +11,7 @@ redirect-from:
 excerpt: "¿Cuáles son las diferencias entre trabajar en empresa y en investigación? ¿Cómo puede un investigador en ondas gravitacionales trabajar en el FC Barcelona? Hoy entrevistamos a Juan Calderón Bustillo, investigador en el IGFAE experto en ondas gravitacionales, y nos contará su poco-convencional trayectoria profesional."
 ---
 
-<section class="blog">
-
-<p class="clearfix">
-  ¿Cuáles son las diferencias entre trabajar en empresa y en investigación? ¿Cómo puede un investigador en ondas gravitacionales trabajar en el FC Barcelona? Hoy entrevistamos a Juan Calderón Bustillo, investigador en el IGFAE experto en ondas gravitacionales, y nos contará su poco-convencional trayectoria profesional.
-</p>
+<hr>
 
 <br>
 <p>

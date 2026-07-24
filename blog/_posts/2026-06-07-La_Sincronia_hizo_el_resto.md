@@ -4,18 +4,14 @@ categories:
    - blog
    - I Concurso Relatos Divulgativos
 title:  "ICRD26: La Sincronía hizo el resto"
-cover: "Divulgacion/ConcursoRelatos/portada.png"
+cover: "/Divulgacion/ConcursoRelatos/portada.png"
 date: 2026-06-07 11:00
 author: Carla Delgado Vique
 redirect-from:
 excerpt: "Comenzamos las publicaciones de los mejores relatos seleccionados de entre los participantes en el I Concurso de Relatos Divulgativos del GdeE. En este relato, Carla nos explica cómo pueden acoplarse distintos osciladores aparentemente desconectados, ¡sin siquiera mencionar lo que es un oscilador! ¡Deléitense con su narrativa!"
 ---
 
-<section class="blog">
 
-<p class="clearfix">
-  Comenzamos las publicaciones de los mejores relatos seleccionados de entre los participantes en el <b>I Concurso de Relatos Divulgativos del GdeE</b>. En este relato, Carla nos explica cómo pueden acoplarse distintos osciladores aparentemente desconectados, ¡sin siquiera mencionar lo que es un oscilador! ¡Deléitense con su narrativa!
-</p>
 
 <br>
 <p>

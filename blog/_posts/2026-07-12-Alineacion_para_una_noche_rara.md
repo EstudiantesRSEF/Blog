@@ -4,18 +4,14 @@ categories:
    - blog
    - I Concurso Relatos Divulgativos
 title:  "ICRD26: Alineación para una noche rara"
-cover: "Divulgacion/ConcursoRelatos/portada.png"
+cover: "/Divulgacion/ConcursoRelatos/portada.png"
 date: 2026-07-12 11:00
 author: Andrea Morras
 redirect-from:
 excerpt: "Entre tanto furor por el Mundial de fútbol 2026, ¿es posible pensar en la física? En este relato, Andrea conecta estos dos mundos, fútbol y física, para hacer un repaso por los hitos y las personalidades más importantes en el fascinante estudio de la luz. Y buen equipo se ha montao."
 ---
 
-<section class="blog">
 
-<p class="clearfix">
-  Entre tanto furor por el Mundial de fútbol 2026, ¿es posible pensar en la física? En este relato, Andrea conecta estos dos mundos fútbol y física, para hacer un repaso por los hitos y las personalidades más importantes en el fascinante estudio de la luz. Y buen equipo se ha montao.
-</p>
 <hr>
 
 <br>

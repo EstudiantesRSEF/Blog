@@ -13,14 +13,7 @@ investigación que José ha desarrollado en su carrera: Gravedad Cuántica y Red
 en Física Teórica."
 ---
 
-<section class="blog">
-
-<p class="clearfix">
-Presentamos la tercera y última parte de esta magnífica entrevista a José Edelstein, en la que 
-bajamos al barro de la Física teórica para aprender aspectos más técnicos relacionados con la 
-investigación que José ha desarrollado en su carrera: Gravedad Cuántica y Redes Neuronales 
-en Física Teórica.  
-</p>
+<hr>
 
 <br>
 
