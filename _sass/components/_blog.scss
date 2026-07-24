@@ -1,0 +1,80 @@
+
+.blog {
+    .contenedor3{
+        margin-top: 55px;
+        display: flex;
+        justify-content: center;
+        padding: 25px;
+    }
+    .imgen{
+        width: 350px;
+        margin: 0 10px;
+    }
+    .contenedor{
+        display: flex;
+        justify-content: center;
+        margin-top: 35px;
+        padding: 35px;    
+    }
+    .img-1{
+        margin-right: 10px;
+    }
+    .img-2{
+        margin-left: 10px;
+    }
+    .img-left, .img-right {
+    height: auto;
+    width: auto;
+    max-width: 45%;
+    max-height: 250px; // Adjust this value based on typical text block height
+    object-fit: contain;
+    margin: 0.5em;
+  }
+
+  .img-left {
+    float: left;
+    margin-right: 1.5em;
+  }
+
+  .img-right {
+    float: right;
+    margin-left: 1.5em;
+  }
+
+  .img-center {
+    display: block;
+    margin: 1em auto;
+    width: 60%;
+    max-width: 600px;
+  }
+
+  .img-center-large {
+    display: block;
+    margin: 1em auto;
+    width: 80%;
+    max-width: 800px;
+  }
+  /* Utilidad para limpiar floats */
+  .clearfix {
+    &::after {
+      content: "";
+      display: block;
+      clear: both;
+    }
+  }
+  .titulo-capitulo {
+        text-align: center;      /* Centrado */
+        font-size: 2em;          /* Tamaño grande (ajusta a 1.5em, 2em, 2.5em según prefieras) */
+        font-weight: bold;       /* Negrita */
+        margin-top: 20px;
+        margin-bottom: 20px;
+  }
+  
+  .dialogo {
+    margin-left: 40px; /* Ajusta este valor para dar más o menos espacio */
+  }
+}
+
+
+
+
