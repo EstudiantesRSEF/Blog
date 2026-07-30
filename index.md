@@ -1,6 +1,5 @@
 ---
 title: "El Blog del Grupo de Estudiantes de la RSEF"
-permalink: /blog/
 redirect_from:
   - /blog.html
 ---
