@@ -1,20 +1,20 @@
-{% assign post = include.post %}
-<a href="{{ post.url | prepend: site.baseurl }}" class="post-card-large">
-    {% if post.cover %}
-        <img src="{{ post.cover }}" alt="{{ post.title }}" class="cover">
+{% assign card_post = include.post %}
+<a href="{{ card_post.url | prepend: site.baseurl }}" class="post-card-large">
+    {% if card_post.cover %}
+        <img src="{{ card_post.cover }}" alt="{{ card_post.title }}" class="cover">
     {% endif %}
     <div class="body">
-        <h3>{{ post.title }}</h3>
+        <h3>{{ card_post.title }}</h3>
         <div class="meta">
-            {% if post.date %}<span class="chip">{{ post.date | date: "%-d %b %Y" }}</span>{% endif %}
-            {% if post.author %}<span class="chip">{{ post.author }}</span>{% endif %}
-            {% if post.categories %}
-                {% for category in post.categories %}
+            {% if card_post.date %}<span class="chip">{{ card_post.date | date: "%-d %b %Y" }}</span>{% endif %}
+            {% if card_post.author %}<span class="chip">{{ card_post.author }}</span>{% endif %}
+            {% if card_post.categories %}
+                {% for category in card_post.categories %}
                     {% unless category == 'blog' %}<span class="chip">{{ category }}</span>{% endunless %}
                 {% endfor %}
             {% endif %}
         </div>
-        <p class="excerpt">{{ post.excerpt | strip_html }}</p>
+        <p class="excerpt">{{ card_post.excerpt | strip_html }}</p>
         <span class="leer-mas">Leer más...</span>
     </div>
 </a>
