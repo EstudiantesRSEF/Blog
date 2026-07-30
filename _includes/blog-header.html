@@ -13,10 +13,10 @@
                 <a href="javascript:void(0)" class="dropdown-toggle" onclick="toggleDropdown(event)">Más Secciones <i class="fas fa-chevron-down"></i></a>
                 <ul class="dropdown-menu">
                     {% for item in site.data.secciones %}
-                        {% assign slug = item[0] %}
-                        {% assign s = item[1] %}
-                        {% unless slug == "gdee-por-el-mundo" or slug == "diario-de-un-friki" %}
-                            <li><a href="/blog/secciones/{{ slug }}/">{{ s.titulo }}</a></li>
+                        {% assign dd_slug = item[0] %}
+                        {% assign dd_seccion = item[1] %}
+                        {% unless dd_slug == "gdee-por-el-mundo" or dd_slug == "diario-de-un-friki" %}
+                            <li><a href="/blog/secciones/{{ dd_slug }}/">{{ dd_seccion.titulo }}</a></li>
                         {% endunless %}
                     {% endfor %}
                 </ul>
