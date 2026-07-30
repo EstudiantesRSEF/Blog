@@ -207,8 +207,10 @@
     .post-title { color: var(--azul-marino); font-size: 2.3rem; margin-bottom: 20px; }
     .post-meta-row { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 30px; }
 
-    .autor-box { display: flex; align-items: center; gap: 16px; padding: 18px 22px; background: var(--blanco); border-radius: 14px; box-shadow: 0 6px 20px rgba(22,32,63,0.08); margin-bottom: 35px; }
-    .autor-box img { width: 60px; height: 60px; border-radius: 50%; object-fit: cover; border: 2px solid var(--verde-pastel); }
+    .autor-box { display: flex; align-items: center; gap: 16px; padding: 18px 22px; background: var(--blanco); border-radius: 14px; box-shadow: 0 6px 20px rgba(22,32,63,0.08); margin-bottom: 35px; flex-wrap: wrap; }
+    .autor-box-personas { display: flex; flex-wrap: wrap; gap: 22px; }
+    .autor-persona { display: flex; align-items: center; gap: 12px; }
+    .autor-persona img { width: 60px; height: 60px; border-radius: 50%; object-fit: cover; border: 2px solid var(--verde-pastel); }
     .autor-box .nombre { font-weight: 700; color: var(--azul-marino); font-size: 1.05rem; }
     .autor-box .universidad { font-size: 0.88rem; color: #777; }
     .autor-box .fecha { font-size: 0.82rem; color: #999; margin-left: auto; white-space: nowrap; }
@@ -239,7 +241,6 @@
     .star-rating label { font-size: 2rem; color: #d8dce3; cursor: pointer; transition: color 0.2s; }
     .star-rating input:checked ~ label,
     .star-rating label:hover, .star-rating label:hover ~ label { color: var(--verde); }
-    .rating-average { font-weight: 700; color: var(--verde-oscuro); margin-top: 12px; font-size: 0.95rem; }
     .rating-note { font-size: 0.8rem; color: #999; margin-top: 6px; }
 
     /* Comentarios */
