@@ -1,10 +1,10 @@
 ---
 title: "El Blog del Grupo de Estudiantes de la RSEF"
-permalink: "/blog"
+permalink: /blog/
 redirect_from:
   - /blog.html
 ---
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -20,13 +20,13 @@ redirect_from:
 <!-- CARRUSEL DE SECCIONES -->
 <div class="secciones-carousel" id="seccionesCarousel">
     {% for item in site.data.secciones %}
-        {% assign slug = item[0] %}
-        {% assign s = item[1] %}
-        <a href="/blog/secciones/{{ slug }}/" class="seccion-slide" style="background-image: url('{{ s.imagen }}');">
+        {% assign car_slug = item[0] %}
+        {% assign car_seccion = item[1] %}
+        <a href="/blog/secciones/{{ car_slug }}/" class="seccion-slide" style="background-image: url('{{ car_seccion.imagen }}');">
             <div class="seccion-slide-overlay"></div>
             <div class="seccion-slide-content">
-                <h2>{{ s.titulo }}</h2>
-                <p>{{ s.descripcion }}</p>
+                <h2>{{ car_seccion.titulo }}</h2>
+                <p>{{ car_seccion.descripcion }}</p>
                 <span class="btn btn-small">Ver sección</span>
             </div>
         </a>
@@ -70,14 +70,13 @@ redirect_from:
 
         <div class="sidebar-widget">
             <h3>Autores destacados</h3>
-            {% assign posts_by_author = site.posts | where_exp: "p", "p.categories contains 'blog'" | group_by: "author" | sort: "size" | reverse %}
-            {% for grupo in posts_by_author limit: 5 %}
-                {% assign autor_info = site.data.autores[grupo.name] %}
+            {% for autor in site.data.autores_ranking limit: 5 %}
+                {% assign autor_info = site.data.autores[autor.nombre] %}
                 <div class="autor-destacado">
-                    <img src="{{ autor_info.image | default: '/Divulgacion/avatar-default.svg' }}" alt="Foto de {{ grupo.name }}" onerror="this.onerror=null;this.src='/Divulgacion/avatar-default.svg';">
+                    <img src="{{ autor_info.image | default: '/Divulgacion/avatar-default.svg' }}" alt="Foto de {{ autor.nombre }}" onerror="this.onerror=null;this.src='/Divulgacion/avatar-default.svg';">
                     <div>
-                        <div class="nombre">{{ grupo.name }}</div>
-                        <div class="conteo">{{ grupo.items.size }} entrada{% if grupo.items.size != 1 %}s{% endif %}</div>
+                        <div class="nombre">{{ autor.nombre }}</div>
+                        <div class="conteo">{{ autor.numero }} entrada{% unless autor.numero == 1 %}s{% endunless %}</div>
                     </div>
                 </div>
             {% endfor %}
