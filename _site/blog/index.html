@@ -1,4 +1,4 @@
-<DOCTYPE html="">
+<!--DOCTYPE html-->
 <html lang="es">
 <head>
     <meta charset="UTF-8" />
@@ -213,8 +213,10 @@
     .post-title { color: var(--azul-marino); font-size: 2.3rem; margin-bottom: 20px; }
     .post-meta-row { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 30px; }
 
-    .autor-box { display: flex; align-items: center; gap: 16px; padding: 18px 22px; background: var(--blanco); border-radius: 14px; box-shadow: 0 6px 20px rgba(22,32,63,0.08); margin-bottom: 35px; }
-    .autor-box img { width: 60px; height: 60px; border-radius: 50%; object-fit: cover; border: 2px solid var(--verde-pastel); }
+    .autor-box { display: flex; align-items: center; gap: 16px; padding: 18px 22px; background: var(--blanco); border-radius: 14px; box-shadow: 0 6px 20px rgba(22,32,63,0.08); margin-bottom: 35px; flex-wrap: wrap; }
+    .autor-box-personas { display: flex; flex-wrap: wrap; gap: 22px; }
+    .autor-persona { display: flex; align-items: center; gap: 12px; }
+    .autor-persona img { width: 60px; height: 60px; border-radius: 50%; object-fit: cover; border: 2px solid var(--verde-pastel); }
     .autor-box .nombre { font-weight: 700; color: var(--azul-marino); font-size: 1.05rem; }
     .autor-box .universidad { font-size: 0.88rem; color: #777; }
     .autor-box .fecha { font-size: 0.82rem; color: #999; margin-left: auto; white-space: nowrap; }
@@ -245,7 +247,6 @@
     .star-rating label { font-size: 2rem; color: #d8dce3; cursor: pointer; transition: color 0.2s; }
     .star-rating input:checked ~ label,
     .star-rating label:hover, .star-rating label:hover ~ label { color: var(--verde); }
-    .rating-average { font-weight: 700; color: var(--verde-oscuro); margin-top: 12px; font-size: 0.95rem; }
     .rating-note { font-size: 0.8rem; color: #999; margin-top: 6px; }
 
     /* Comentarios */
@@ -371,11 +372,11 @@
     
         
         
-        <a href="/blog/secciones/diario-de-un-friki/" class="seccion-slide" style="background-image: url('/img/blog/secciones/friki_portada.png');">
+        <a href="/blog/secciones/diario-de-un-friki/" class="seccion-slide" style="background-image: url('/img/blog/secciones/friki-portada.png');">
             <div class="seccion-slide-overlay"></div>
             <div class="seccion-slide-content">
                 <h2>Diario de un Friki</h2>
-                <p>¿Cómo ve la vida un verdadero friki de la física? Ponte sus gafas y aprende mucha física mientras que nos reímos un poco de nosotros mismos.</p>
+                <p>La vida desde el punto de vista del personaje más friki que puedas imaginar; para aprender y reirnos de nosotros mismos.</p>
                 <span class="btn btn-small">Ver sección</span>
             </div>
         </a>
@@ -386,7 +387,7 @@
             <div class="seccion-slide-overlay"></div>
             <div class="seccion-slide-content">
                 <h2>Hall of Fame</h2>
-                <p>Reconocemos a los físicos y físicas que han marcado un antes y un después en la historia del GdeE.</p>
+                <p>Reconocemos a los físicos y físicas que han marcado un antes y un después en la historia de la ciencia.</p>
                 <span class="btn btn-small">Ver sección</span>
             </div>
         </a>
@@ -2214,52 +2215,6 @@ nos transmite una enorme pasión por su trabajo, así como los beneficios que é
         <div class="sidebar-widget">
             <h3>Autores destacados</h3>
             
-            
-                
-                <div class="autor-destacado">
-                    <img src="/Divulgacion/imagenes/autores/kike.jpeg" alt="Foto de Enrique Rodríguez Ramos" onerror="this.onerror=null;this.src='/Divulgacion/avatar-default.svg';" />
-                    <div>
-                        <div class="nombre">Enrique Rodríguez Ramos</div>
-                        <div class="conteo">11 entradas</div>
-                    </div>
-                </div>
-            
-                
-                <div class="autor-destacado">
-                    <img src="/Divulgacion/avatar-default.svg" alt="Foto de Sergio J Salvía Fernández" onerror="this.onerror=null;this.src='/Divulgacion/avatar-default.svg';" />
-                    <div>
-                        <div class="nombre">Sergio J Salvía Fernández</div>
-                        <div class="conteo">6 entradas</div>
-                    </div>
-                </div>
-            
-                
-                <div class="autor-destacado">
-                    <img src="/Divulgacion/avatar-default.svg" alt="Foto de Álvaro Jacobo Iturbe Jabaloyes &amp; Enrique Rodríguez Ramos" onerror="this.onerror=null;this.src='/Divulgacion/avatar-default.svg';" />
-                    <div>
-                        <div class="nombre">Álvaro Jacobo Iturbe Jabaloyes &amp; Enrique Rodríguez Ramos</div>
-                        <div class="conteo">4 entradas</div>
-                    </div>
-                </div>
-            
-                
-                <div class="autor-destacado">
-                    <img src="/Divulgacion/avatar-default.svg" alt="Foto de Enrique Rodríguez Ramos &amp; Álvaro Jacobo Iturbe Jabaloyes" onerror="this.onerror=null;this.src='/Divulgacion/avatar-default.svg';" />
-                    <div>
-                        <div class="nombre">Enrique Rodríguez Ramos &amp; Álvaro Jacobo Iturbe Jabaloyes</div>
-                        <div class="conteo">3 entradas</div>
-                    </div>
-                </div>
-            
-                
-                <div class="autor-destacado">
-                    <img src="/Divulgacion/avatar-default.svg" alt="Foto de Miriam Martínez Flórez, Alberto Flores Ruiz y Alejandro Fernández Muñoz" onerror="this.onerror=null;this.src='/Divulgacion/avatar-default.svg';" />
-                    <div>
-                        <div class="nombre">Miriam Martínez Flórez, Alberto Flores Ruiz y Alejandro Fernández Muñoz</div>
-                        <div class="conteo">2 entradas</div>
-                    </div>
-                </div>
-            
         </div>
 
         <div class="sidebar-widget">
@@ -2927,4 +2882,3 @@ nos transmite una enorme pasión por su trabajo, así como los beneficios que é
 </script>
 </body>
 </html>
-</DOCTYPE>
