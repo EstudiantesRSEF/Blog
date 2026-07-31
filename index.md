@@ -2,7 +2,7 @@
 title: "El Blog del Grupo de Estudiantes de la RSEF"
 layout: null
 ---
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html lang="es">
 <head>
     <meta charset="UTF-8">
